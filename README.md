@@ -15,6 +15,6 @@ How to start the APP
 What i learned
 ----------------------------
 
-* Animate CSS with keyframe
-* Use a setTimeout for timed state
-* Manage to disable a button during timeout
+* Animate CSS with keyframe.
+* Use a setTimeout for timed state.
+* Manage to disable a button during timeout.
